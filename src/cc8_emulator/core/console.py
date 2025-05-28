@@ -2,6 +2,7 @@ from .memory import Memory
 from .cpu import CPU
 from .bus import Bus
 from .ppu import PPU
+from ..input.keyboard import Keyboard
 
 class Console:
     """Console emulation class"""
@@ -13,11 +14,12 @@ class Console:
 
         self.ram = Memory(rom)
         self.ppu = PPU(self.DISPLAY_WIDTH, self.DISPLAY_HEIGHT, 10)
-        self.bus = Bus(self.ram, self.ppu)
+        self.keyboard = Keyboard()
+        self.bus = Bus(self.ram, self.ppu, self.keyboard)
         self.ppu.conectBus(self.bus)
         self.cpu = CPU(self.bus)
 
     def step(self):            
-        # TODO: verify input
+        self.keyboard.updateKeysPressed()
         self.cpu.cycle()
         return 0

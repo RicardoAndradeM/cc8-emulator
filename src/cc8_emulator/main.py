@@ -4,7 +4,7 @@ from .video.renderer import Renderer
 import sys, pygame
 
 FRAMERATE: int = 60
-ROM_PATH = "assets/IBM_Logo.ch8"
+#ROM_PATH = "assets/IBM_Logo.ch8"
 DISPLAY_SCALE: int = 10
 
 def main():

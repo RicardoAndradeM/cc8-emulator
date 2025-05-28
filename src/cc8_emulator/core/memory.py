@@ -37,8 +37,8 @@ class Memory:
                 self.write(self._getCharactersAddress(position), characterByte)
                 position += 1
 
-    def _getCharactersAddress(seld, position: int) -> int:
+    def _getCharactersAddress(self, position: int) -> int:
         return position + 0x050
     
-    def _getLoadAddress(seld, position: int) -> int:
+    def _getLoadAddress(self, position: int) -> int:
         return position + 0x200
