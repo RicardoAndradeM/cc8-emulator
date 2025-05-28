@@ -1,15 +1,18 @@
 from .rom.load_rom import LoadRom
 from .core.console import Console
 from .video.renderer import Renderer
-import sys, pygame
+import sys, pygame, logging
 
 FRAMERATE: int = 60
-#ROM_PATH = "assets/IBM_Logo.ch8"
 DISPLAY_SCALE: int = 10
 
 def main():
-    # TODO: create a system for the user to choose the ROM file
-    rom = LoadRom(ROM_PATH)
+    if len(sys.argv) > 1:
+        romPath = sys.argv[1]
+    else:
+        logging.error("No ROM provided by the user")
+        sys.exit(1)
+    rom = LoadRom(romPath)
     console = Console(rom.data)
     renderer = Renderer(console.DISPLAY_WIDTH, console.DISPLAY_HEIGHT, DISPLAY_SCALE)
     isRuning = True
