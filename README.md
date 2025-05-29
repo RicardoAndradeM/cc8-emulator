@@ -93,6 +93,6 @@ Made with ❤️ by [Ricardo Andrade](https://github.com/RicardoAndradeM)
  -->  
 
 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://www.linkedin.com/in/ricardoandradem/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardoandradem-blue?logo=linkedin)](https://www.linkedin.com/in/ricardoandradem/)
 
 ---
