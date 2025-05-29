@@ -10,8 +10,6 @@
 <!--![GitHub language count](https://img.shields.io/github/languages/count/RicardoAndradeM/cc8-emulator)
 -->
 
----
-
 > cc8-emulator is a small, open-source Chip-8 emulator written in Python. Its purpose is to run Chip-8 games.
 
 ---
