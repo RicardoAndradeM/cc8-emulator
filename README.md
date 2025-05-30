@@ -17,18 +17,18 @@
 <table>
     <tr>
         <th>
-            <img src="/docs/imgs/8ceattourny_d1.png" alt="8ceattourny_d1" width="300">
+            <img src="/docs/imgs/8ceattourny_d1.png" alt="8ceattourny_d1" width="350">
         </th>
         <th>
-            <img src="/docs/imgs/caveexplorer.png" alt="caveexplorer" width="300">
+            <img src="/docs/imgs/caveexplorer.png" alt="caveexplorer" width="350">
         </th>
     </tr>
     <tr>
         <th>
-            <img src="/docs/imgs/chipwar.png" alt="chipwar" width="300">
+            <img src="/docs/imgs/chipwar.png" alt="chipwar" width="350">
         </th>
         <th>
-            <img src="/docs/imgs/RPS.png" alt="RPS" width="300">
+            <img src="/docs/imgs/RPS.png" alt="RPS" width="350">
         </th>
     </tr>
 </table>
