@@ -12,13 +12,26 @@
 
 > cc8-emulator is a small, open-source Chip-8 emulator written in Python. Its purpose is to run Chip-8 games.
 
----
-
 ## 🖥️ Screenshots
 
-> ** pendente **
-
----
+<table>
+    <tr>
+        <th>
+            <img src="/docs/imgs/8ceattourny_d1.png" alt="8ceattourny_d1" width="300">
+        </th>
+        <th>
+            <img src="/docs/imgs/caveexplorer.png" alt="caveexplorer" width="300">
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <img src="/docs/imgs/chipwar.png" alt="chipwar" width="300">
+        </th>
+        <th>
+            <img src="/docs/imgs/RPS.png" alt="RPS" width="300">
+        </th>
+    </tr>
+</table>
 
 ## ✨ Features
 
@@ -26,14 +39,15 @@
 - 🚧 GUI (in progress)
 - 📝 Modes configuration (planned)
 
----
-
 ## 🚀 Installation
 
 ### Requirements
 
 - [Python 3](https://www.python.org/downloads/)
-- [Poetry](https://python-poetry.org)
+- [Poetry](https://python-poetry.org) ([instructions](https://python-poetry.org/docs/))
+
+> [!TIP]
+> Usually the installation of poetray is done using `pipx install poetry`
 
 ### Steps
 
@@ -51,12 +65,10 @@ poetry install
 poetry run main path/to/rom
 ```
 
----
-
 ## 🗺️ Roadmap
 
 - [X] Emulation Game Stuture
-- [X] GUI
+- [ ] GUI
 - [ ] Packaging
 - [ ] Configure github repository
 - [ ] Add localization
@@ -64,8 +76,6 @@ poetry run main path/to/rom
 - [ ] ROM library
 
 Check the [issues](https://github.com/RicardoAndradeM/cc8-emulator/issues) for more.
-
----
 
 ## 🤝 Contributing
 
@@ -78,13 +88,9 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request
 <!-- TODO: Add this: Read the CONTRIBUTING.md for more details. -->
 
----
-
 # 📝 License
 
 This project is licensed under the [MIT License](https://github.com/RicardoAndradeM/cc8-emulator/blob/master/LICENSE).
-
----
 
 ## 👨‍💻 Author
 
@@ -94,5 +100,10 @@ Made with ❤️ by [Ricardo Andrade](https://github.com/RicardoAndradeM)
 
 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardoandradem-blue?logo=linkedin)](https://www.linkedin.com/in/ricardoandradem/)
+
+## 📜 Credits
+
+- @JohnEarnest — Creator of the [Cave Explorer](https://johnearnest.github.io/chip8Archive/play.html?p=caveexplorer) and [ChipWar](https://johnearnest.github.io/chip8Archive/play.html?p=chipwar) ROMs used in the screenshots.
+- @sysl-dev — Creator of the [8CE Attourny](https://johnearnest.github.io/chip8Archive/play.html?p=8ceattourny_d1) and [RPS](https://johnearnest.github.io/chip8Archive/play.html?p=RPS) ROMs used in the screenshots.
 
 ---

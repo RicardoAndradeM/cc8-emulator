@@ -9,6 +9,7 @@ class Renderer:
         self.height = height
         self.scale = scale
         self.screen = pygame.display.set_mode((self.width * self.scale, self.height * self.scale))
+        pygame.display.set_caption("cc8-emulator") # TODO: Criar aquivo de strings e colocar nome da rom no titulo
         self.clock = pygame.time.Clock()
 
     def renderFrame(self, frame: Surface):
