@@ -1,4 +1,4 @@
-# cc8-emulator
+# [![icon-CC8](docs/imgs/icon_64x64.png) CC8-emulator](https://github.com/RicardoAndradeM/cc8-emulator)
 
 ![GitHub License](https://img.shields.io/github/license/RicardoAndradeM/cc8-emulator)
 ![GitHub top language](https://img.shields.io/github/languages/top/RicardoAndradeM/cc8-emulator?logo=python)
@@ -10,7 +10,7 @@
 <!--![GitHub language count](https://img.shields.io/github/languages/count/RicardoAndradeM/cc8-emulator)
 -->
 
-> cc8-emulator is a small, open-source Chip-8 emulator written in Python. Its purpose is to run Chip-8 games.
+> CC8-emulator is a small, open-source Chip-8 emulator written in Python. Its purpose is to run Chip-8 games.
 
 ## 🖥️ Screenshots
 
@@ -103,7 +103,7 @@ Connect with me:
 
 ## 📜 Credits
 
-- @JohnEarnest — Creator of the [Cave Explorer](https://johnearnest.github.io/chip8Archive/play.html?p=caveexplorer) and [ChipWar](https://johnearnest.github.io/chip8Archive/play.html?p=chipwar) ROMs used in the screenshots.
-- @sysl-dev — Creator of the [8CE Attourny](https://johnearnest.github.io/chip8Archive/play.html?p=8ceattourny_d1) and [RPS](https://johnearnest.github.io/chip8Archive/play.html?p=RPS) ROMs used in the screenshots.
+- [@JohnEarnest](github.com/JohnEarnest) — Creator of the [Cave Explorer](https://johnearnest.github.io/chip8Archive/play.html?p=caveexplorer) and [ChipWar](https://johnearnest.github.io/chip8Archive/play.html?p=chipwar) ROMs used in the screenshots.
+- [@sysl-dev](github.com/sysl-dev) — Creator of the [8CE Attourny](https://johnearnest.github.io/chip8Archive/play.html?p=8ceattourny_d1) and [RPS](https://johnearnest.github.io/chip8Archive/play.html?p=RPS) ROMs used in the screenshots.
 
 ---
