@@ -103,7 +103,7 @@ Connect with me:
 
 ## 📜 Credits
 
-- [@JohnEarnest](github.com/JohnEarnest) — Creator of the [Cave Explorer](https://johnearnest.github.io/chip8Archive/play.html?p=caveexplorer) and [ChipWar](https://johnearnest.github.io/chip8Archive/play.html?p=chipwar) ROMs used in the screenshots.
-- [@sysl-dev](github.com/sysl-dev) — Creator of the [8CE Attourny](https://johnearnest.github.io/chip8Archive/play.html?p=8ceattourny_d1) and [RPS](https://johnearnest.github.io/chip8Archive/play.html?p=RPS) ROMs used in the screenshots.
+- [@JohnEarnest](https://github.com/JohnEarnest) — Creator of the [Cave Explorer](https://johnearnest.github.io/chip8Archive/play.html?p=caveexplorer) and [ChipWar](https://johnearnest.github.io/chip8Archive/play.html?p=chipwar) ROMs used in the screenshots.
+- [@sysl-dev](https://github.com/sysl-dev) — Creator of the [8CE Attourny](https://johnearnest.github.io/chip8Archive/play.html?p=8ceattourny_d1) and [RPS](https://johnearnest.github.io/chip8Archive/play.html?p=RPS) ROMs used in the screenshots.
 
 ---
